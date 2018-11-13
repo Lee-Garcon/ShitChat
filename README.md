@@ -1,7 +1,7 @@
 # ShitChat
 The worst irc-like http chat server code you've ever seen
 
-## Installation
+## Hosting
 
 This script doesn't come with hosting. Thus, you will need to run it on your own server. I usually use ngrok to host my chat server.
 
